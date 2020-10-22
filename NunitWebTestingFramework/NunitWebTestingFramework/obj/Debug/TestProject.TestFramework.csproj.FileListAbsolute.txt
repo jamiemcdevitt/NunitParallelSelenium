@@ -1,0 +1,1 @@
+C:\Users\jazzm\source\repos\NUnitTestProject1\TestFramework\obj\Debug\TestProject.TestFramework.csproj.CoreCompileInputs.cache

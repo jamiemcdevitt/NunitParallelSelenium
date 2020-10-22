@@ -1,0 +1,2 @@
+C:\Users\jazzm\source\repos\NUnitTestProject1\Pages\obj\Debug\Pages.csprojAssemblyReference.cache
+C:\Users\jazzm\source\repos\NUnitTestProject1\Pages\obj\Debug\Pages.csproj.CoreCompileInputs.cache
